@@ -1,0 +1,18 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 11
+    scrollSensitivity: 80
+    showIndentGuide: true
+    softTabs: false
+    softWrap: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "0dd50f86-db2a-420d-9be2-c4414326050c"
+  welcome:
+    showOnStartup: false
