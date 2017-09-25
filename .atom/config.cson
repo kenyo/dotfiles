@@ -18,3 +18,5 @@
     launch_at_startup: true
   welcome:
     showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
