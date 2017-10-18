@@ -1,5 +1,8 @@
 "*":
   core:
+    allowPendingPaneItems: false
+    audioBeep: false
+    closeDeletedFileTabs: true
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
@@ -10,7 +13,6 @@
     scrollPastEnd: true
     scrollSensitivity: 100
     showIndentGuide: true
-    softTabs: false
     softWrap: true
     tabType: "soft"
   "exception-reporting":

@@ -2,7 +2,7 @@
     email = koh@appnexus.com
     name = Kenny Oh
 [alias]
-    st = status -s
+    st = status 
     co = checkout
     cb = checkout -b
     br = branch
@@ -21,3 +21,4 @@
     pr = pull --rebase
 [core]
     editor = vim
+	excludesfile = /Users/koh/.gitignore
