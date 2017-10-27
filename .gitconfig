@@ -21,4 +21,4 @@
     pr = pull --rebase
 [core]
     editor = vim
-	excludesfile = /Users/koh/.gitignore
+	excludesfile = /Users/kennyoh/.gitignore
