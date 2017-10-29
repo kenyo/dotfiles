@@ -16,3 +16,6 @@ Thumbs.db
 # For your thoughts
 *.idea
 
+# .git folder alias for dotfiles
+.cfg
+
