@@ -1,1 +1,1 @@
-/Users/koh/.local/share/omf/themes/batman/fish_prompt.fish
+/Users/koh/.local/share/omf/themes/agnoster/fish_prompt.fish
