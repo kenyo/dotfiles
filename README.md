@@ -14,7 +14,4 @@ git clone --bare git@github.com:kenyo/dotfiles.git $HOME/.cfg
 git config --global core.excludesfile ~/.gitignore_global
 config config --local status.showUntrackedFiles no
 
-
-pip install powerline-status
-
 ```

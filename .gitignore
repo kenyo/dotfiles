@@ -19,3 +19,6 @@ Thumbs.db
 # .git folder alias for dotfiles
 .cfg
 
+# misc.
+node_modules/
+package-lock.json

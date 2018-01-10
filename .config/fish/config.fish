@@ -7,6 +7,4 @@ set -q XDG_DATA_HOME
 source $OMF_PATH/init.fish
 
 alias config  '/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
-alias anx     'cd ~/code/anx $argv'
-
 
